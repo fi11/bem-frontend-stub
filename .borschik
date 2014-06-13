@@ -1,0 +1,9 @@
+{
+    "paths" : {
+        "./": "//",
+        "public": "/"
+    },
+    "freeze_paths": {
+        "./": "public/static"
+    }
+}

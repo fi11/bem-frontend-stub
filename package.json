@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "koa": "~0.6.0",
+    "koa-mount-dir": "0.1.0",
+    "co-body": "0.0.1",
+    "enb": "~0.13.1",
+    "bh": "~2.0.0",
+    "ym": "~0.1.0",
+    "enb-modules": "~0.1.2",
+    "gulp": "~3.7.0",
+    "gulp-shell": "~0.2.5",
+    "gulp-serve-bundle": "0.0.1",
+    "gulp-nodemon": "~1.0.3",
+    "bh-bundle": "0.0.1"
+  },
+  "devDependencies": {
+    "supertest": "~0.12.1",
+    "mocha": "~1.18.2",
+    "chai": "~1.9.1",
+    "co": "~3.0.6",
+    "debug": "~0.8.1"
+  }
+}

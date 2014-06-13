@@ -1,0 +1,9 @@
+{
+    "name": "bem-frontend-stub",
+    "version": "0.0.1",
+    "dependencies": {
+        "bem-core": "v2.2.2",
+        "bem-stylus-lib": "https://github.com/fi11/bem-stylus-lib.git",
+        "bem-interface-lib": "https://github.com/fi11/bem-interface-lib.git"
+    }
+}

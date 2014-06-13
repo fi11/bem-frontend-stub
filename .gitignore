@@ -1,0 +1,14 @@
+.idea
+.enb/tmp
+node_modules
+*.lnk
+npm-debug.log
+libs
+
+public/static/*
+bundles/pages/*
+!bundles/pages/pages.bemdecl.js
+server/pages.bundle.json
+
+
+
